@@ -1,30 +1,26 @@
+# Java Fundamentals
+
 ## About
-Projects and exercises in the Java programming language. The projects come from the course, materials, handouts and activities proposed during my graduation, separated into levels of complexity:
-- Basic;
-- Intermediary;
-- Advanced.
+The Java Fundamentals training provides hands-on experience with essential content for modern Java development.
+
+## Curriculum
+- **Basic Concepts to Start Programming in Java** — Syntax, variables, data types, and control structures
+- **Object-Oriented Programming (OOP)** — Classes, inheritance, polymorphism, and encapsulation
+- **Exception Handling** — Try-catch, throws, and custom exceptions
+- **Interfaces and Lambda Expressions** — Functional programming in Java
+- **File Handling (I/O)** — Reading and writing files
+- **Dependency Management** — Maven and Gradle
 
 ## Technologies
-- Java and Java libraries;
-- Netbeans.
+- Java 17+
+- Maven
+- Gradle
+- IntelliJ IDEA
 
-## Contact
-- Social networks: https://github.com/AndersonCSM
-- Contact email: andersoncarlos799@gmail.com
+## Projects and Exercises
+- (Under development)
 
----
-## Sobre
-Projetos e exercícios na linguagem de programação Java. Os projetos vêm de curso, materiais, apostilas e de atividades propostas durante minha graduação, separados em níveis de complexidade:
-- Básico;
-- Intermediário;
-- Avançado.
-
-## Tecnologias
-- Java e Bibliotecas do Java;
-- Netbeans.
-
-## Contato
-- Redes sociais: https://github.com/AndersonCSM
-- email de contato: andersoncarlos799@gmail.com
-
----
+## Useful Resources
+- [Official Java Documentation](https://docs.oracle.com/en/java/)
+- [Maven Central Repository](https://mvnrepository.com/)
+- [Gradle Docs](https://docs.gradle.org/)
