@@ -1,40 +1,44 @@
 # DIO-Trainings
 Repository for Digital Innovation One (DIO) training materials
 
-Este repositório está organizado para apresentar os materiais estudados e elaborados em minha autoria através da plataforma da DIO (https://web.dio.me/home). Todos os materiais aqui são desenvolvidos pdurante meus estudos ou de anotações baseadas no conteúdo fornecido, não se enquadrando como cópia, além disso, este repositório tem fins educacionais e expositivos, servindo para mostrar habilidades e conhecimentos que tenho apto.
+## About
+English: Curated notes, exercises, and personal projects developed while completing DIO trainings. Everything here reflects hands-on practice and personal study rather than copied course content.
 
-Os materias que estão dispositivos abaixo englobam Formações, Bootcamps, CodeCamps, sendo organizadas cada um em sua subpasta.
+Português: Materiais autorais de estudo e prática realizados durante formações e desafios da DIO, organizados para fins educacionais e de portfólio.
 
-Atualmente estão dispostos as formações nas seguintes categorias:
-Formações:
-2. Lógica de Programação - Concluido
-3. Github Certification - Concluido
-4. Python Fundamentals - Concluido
-C/C++ Developer - Concluido
-5. Java Fundamentals
-6. Java Developer
-7. SQL especialist
-8. Scrum Master
-9. Python Backend
-10. Docker Fundamentals
-11. Kubernets  
-12. Programação Reativa com Spring Webflux
-13. AWS Cloud Practitioner
-14. Machine Learning Specialist
-15. Fundamentos de IA
-16. Chat GPT para desenvolvedores
-17. Linux Fundamentals
-18. IoT
-19. Power Bi
+## Formações
+- [Lógica de Programação](Formacoes/Logica-de-Programacao/) — Concluído
+- [GitHub Certification](Formacoes/GitHub-Certification/) — Concluído
+- [Python Fundamentals](Formacoes/Python-Fundamentals/) — Concluído
+- [C/C++ Developer](Formacoes/C-Cpp-Developer/) — Concluído
+- [Java Fundamentals](Formacoes/Java-Fundamentals/)
+- [Java Developer](Formacoes/Java-Developer/)
+- [SQL Specialist](Formacoes/SQL-Specialist/)
+- [Scrum Master](Formacoes/Scrum-Master/)
+- [Python Backend](Formacoes/Python-Backend/)
+- [Docker Fundamentals](Formacoes/Docker-Fundamentals/)
+- [Kubernetes Fundamentals](Formacoes/Kubernetes-Fundamentals/)
+- [Programação Reativa com Spring WebFlux](Formacoes/Programacao-Reativa-Spring-WebFlux/)
+- [AWS Cloud Practitioner](Formacoes/AWS-Cloud-Practitioner/)
+- [Machine Learning Specialist](Formacoes/Machine-Learning-Specialist/)
+- [Fundamentos de IA](Formacoes/Fundamentos-de-IA/)
+- [ChatGPT para Desenvolvedores](Formacoes/ChatGPT-para-Desenvolvedores/)
+- [Linux Fundamentals](Formacoes/Linux-Fundamentals/)
+- [IoT](Formacoes/IoT/)
+- [Power BI](Formacoes/Power-BI/)
 
-Bootcamps:
+## Bootcamps
+- (Em breve)
 
-CodeCamps
+## CodeCamps
+- (Em breve)
 
-Mentorias:
+## Mentorias
+- (Em breve)
 
-Dev week:
+## Dev Week
+- (Em breve)
 
-## Contato  
-- Redes sociais: [https://github.com/AndersonCSM](https://github.com/AndersonCSM)  
-- Email de contato: andersoncarlos799@gmail.com  
+## Contato
+- GitHub: [https://github.com/AndersonCSM](https://github.com/AndersonCSM)
+- Email: andersoncarlos799@gmail.com
